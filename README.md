@@ -1,6 +1,6 @@
 # Coursera-web-dev-JHU-
 
-#HTML,CSS, JavaScript for web developer####
+#HTML,CSS and  JavaScript for web developer####
 Johns Hopkins University#### Coursera
 
 Solutions are. 
